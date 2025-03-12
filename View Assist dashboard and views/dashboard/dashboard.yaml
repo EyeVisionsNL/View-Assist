@@ -523,6 +523,7 @@ button_card_templates:
       icon:
         - color: white
         - height: 100%
+        - filter: drop-shadow(1px 1px 1px black)
   mediaplayer:
     type: custom:button-card
     template: icon_template
